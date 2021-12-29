@@ -16,7 +16,7 @@ const Header = () => {
   }, [location]);
   return (
     <div className="header">
-      <p className="logo">Nerd Autodidata</p>
+      <p className="logo">NERD AUTODIDATA</p>
       <div className="header-right">
         <Link to="/">
           <p
