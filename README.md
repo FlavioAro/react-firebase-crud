@@ -1,7 +1,7 @@
 # CRUD Firebase
 
 Home
-![print-crud](https://user-images.githubusercontent.com/35077695/147707463-5940e262-04b0-43fc-8c3e-67468d6c7853.PNG)
+
 
 Save
 ![print-crud2](https://user-images.githubusercontent.com/35077695/147710991-a6cf8ee7-569e-4295-8802-e844182ad255.PNG)
