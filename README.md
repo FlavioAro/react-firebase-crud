@@ -9,6 +9,9 @@ Save
 Update
 ![print-crud3](https://user-images.githubusercontent.com/35077695/147710994-b8b13a6d-5cdf-480b-bcbf-68f975479205.PNG)
 
+Delete
+![print-crud5](https://user-images.githubusercontent.com/35077695/147711078-b8dd0945-29b9-45a2-b11c-367148a39868.PNG)
+
 View
 ![print-crud4](https://user-images.githubusercontent.com/35077695/147710997-926166a9-9426-4a07-a798-ca8b289d0700.PNG)
 
