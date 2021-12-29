@@ -1,6 +1,17 @@
 # CRUD Firebase
 
+Home
 ![print-crud](https://user-images.githubusercontent.com/35077695/147707463-5940e262-04b0-43fc-8c3e-67468d6c7853.PNG)
+
+Save
+![print-crud2](https://user-images.githubusercontent.com/35077695/147710991-a6cf8ee7-569e-4295-8802-e844182ad255.PNG)
+
+Update
+![print-crud3](https://user-images.githubusercontent.com/35077695/147710994-b8b13a6d-5cdf-480b-bcbf-68f975479205.PNG)
+
+View
+![print-crud4](https://user-images.githubusercontent.com/35077695/147710997-926166a9-9426-4a07-a798-ca8b289d0700.PNG)
+
 
 # Getting Started with Create React App
 
