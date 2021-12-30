@@ -15,6 +15,9 @@ Delete
 View
 ![print-crud4](https://user-images.githubusercontent.com/35077695/147710997-926166a9-9426-4a07-a798-ca8b289d0700.PNG)
 
+Realtime Database (Firebase)
+![realtime](https://user-images.githubusercontent.com/35077695/147717364-b0dfcef0-863f-4bc0-8641-2cf06145cb7e.PNG)
+
 
 # Getting Started with Create React App
 
