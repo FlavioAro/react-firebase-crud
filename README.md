@@ -20,9 +20,13 @@ View
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Setup
 
-In the project directory, you can run:
+npm install firebase@^8.9.1
+
+npm install react-router-dom@^5.2.0
+
+npm install react-toastify@^7.0.4
 
 ### `npm start`
 
