@@ -25,7 +25,7 @@ const View = () => {
       {Object.keys(data).map((userId) => {
         if (userId === id) {
           return (
-            <div key={userId} style={{ marginTop: "150px" }}>
+            <div key={userId} className="view">
               <div className="card">
                 <div className="card-header">
                   <p>User Contact Detail</p>
