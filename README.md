@@ -19,7 +19,7 @@ View
 ![print-crud4](https://user-images.githubusercontent.com/35077695/147710997-926166a9-9426-4a07-a798-ca8b289d0700.PNG)
 
 Realtime Database (Firebase)
-
+![realtime1](https://user-images.githubusercontent.com/35077695/147717768-f4136aec-4402-43a8-970b-eb1b57237cec.PNG)
 
 
 # Getting Started with Create React App
