@@ -18,9 +18,7 @@ View
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-### Setup
+npx create-react-app firebase-crud
 
 npm install firebase@^8.9.1
 
