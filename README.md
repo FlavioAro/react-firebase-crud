@@ -1,7 +1,7 @@
 # CRUD Firebase
 
 ### Link:
-https://dazzling-thompson-61b21f.netlify.app/
+https://xenodochial-bohr-f5b5f9.netlify.app/
 
 Home
 ![print-crud1](https://user-images.githubusercontent.com/35077695/147711160-5d32f4d8-e177-4072-86a3-c6f74a846823.PNG)
