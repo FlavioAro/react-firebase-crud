@@ -1,4 +1,4 @@
-# CRUD Firebase
+# Complete React CRUD Application with Firebase Real Time Database.
 
 ### Video link showing how it works:
 https://www.youtube.com/watch?v=A6q2TTO2yr0
