@@ -1,6 +1,9 @@
 # CRUD Firebase
 
-### Link:
+### Video link showing how it works:
+https://www.youtube.com/watch?v=A6q2TTO2yr0
+
+### Project link:
 https://xenodochial-bohr-f5b5f9.netlify.app/
 
 Home
